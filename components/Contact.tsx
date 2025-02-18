@@ -1,5 +1,4 @@
 "use client";
-import { error } from "console";
 import { FormEvent, useState } from "react";
 export default function Contact() {
   const [formData, setFormData] = useState({ email: "", message: "" });
