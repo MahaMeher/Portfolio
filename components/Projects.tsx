@@ -14,9 +14,9 @@ export default function Projects() {
           My Work
         </h1>
         <p className="text-lg text-black text-center px-60">
-          "Every project is a new challenge, a new opportunity to create
+          &quot;Every project is a new challenge, a new opportunity to create
           something impactful. I love transforming ideas into seamless digital
-          experiences. Here are some of my works!"
+          experiences. Here are some of my works!&quot;
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 mt-24">
