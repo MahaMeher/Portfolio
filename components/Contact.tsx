@@ -1,5 +1,5 @@
 "use client";
-import { FormEvent, useState } from "react";
+import { useState } from "react";
 export default function Contact() {
   const [formData, setFormData] = useState({ email: "", message: "" });
   const [loading, setLoading] = useState(false);
