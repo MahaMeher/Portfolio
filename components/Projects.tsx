@@ -1,7 +1,7 @@
 export default function Projects() {
      const projects = [
     { title: "Recipe Management System", link: "https://your-recipe-site.com" },
-    { title: "Portfolio Website", link: "https://your-portfolio.com" },
+    { title: "Portfolio Website", link: "https://portfolio-mu-ten-30.vercel.app/" },
     { title: "E-Commerce Store", link: "https://your-store.com" },
      ];
   return (
